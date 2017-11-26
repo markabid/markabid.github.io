@@ -11,4 +11,7 @@ function frameLoop(){
 		clearTimeout(loopTimer);
 	}
 }
-frameLoop();
+
+window.onload = function(){
+	frameLoop();
+}
