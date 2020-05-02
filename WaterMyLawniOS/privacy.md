@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Water My Lawn - Privacy Policy
 
 By using the Water My Lawn iOS app you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy.
@@ -28,4 +32,3 @@ Changes to this policy will be posted here. Summary of changes so far:
   
     -17th February, 2019: First published
     -28th July, 2019: Replaced APIXU with Dark Sky weather service 
-    -1st May, 2020: Replaced Dark Sky with OpenWeatherMap API
