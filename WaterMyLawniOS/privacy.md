@@ -10,7 +10,7 @@ By using the Water My Lawn iOS app you are consenting to our policies regarding 
 
 The app only collects data necessary for functionality. Only the data you see in the settings page of the app along with a randomly generated identifier to associate this data with your device is what gets stored in our database.
 This data is not used for anything other than calculating how much you need to water your lawn each day. 
-Your selected lawn location is sent to 'Dark Sky' weather service in order to get personalized rainfall amounts. 
+Your selected lawn location (alone, without any other information) is sent to 'OpenWeatherMap' weather service in order to get personalized rainfall amounts. 
 
 Apart from that, the app does not transmit or share any other information whatsoever, personal or otherwise.    
 
