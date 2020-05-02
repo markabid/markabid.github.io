@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Water My Lawn - Privacy Policy
 
 By using the Water My Lawn iOS app you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy.
